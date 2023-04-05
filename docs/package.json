@@ -1,0 +1,17 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "组件库文档",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pinia": "^2.0.33",
+    "mui": "workspace:^",
+    "vue-router": "4"
+  }
+}
