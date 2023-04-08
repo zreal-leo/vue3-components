@@ -1,17 +1,21 @@
 {
-  "name": "docs",
-  "version": "1.0.0",
-  "description": "组件库文档",
-  "type": "module",
-  "scripts": {
-    "dev": "vite"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "pinia": "^2.0.33",
-    "mui": "workspace:^",
-    "vue-router": "4"
-  }
+	"name": "docs",
+	"version": "1.0.0",
+	"description": "组件库文档",
+	"type": "module",
+	"scripts": {
+		"dev": "vite"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"marked": "^4.3.0",
+		"mui": "workspace:^",
+		"pinia": "^2.0.33",
+		"vue-router": "4"
+	},
+	"devDependencies": {
+		"@types/marked": "^4.0.8"
+	}
 }

@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-	<input type="number" />
+	<header>header</header>
 </template>
 
-<style scoped></style>
+<style></style>

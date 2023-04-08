@@ -1,4 +1,4 @@
-import Button from './button.vue';
+import Button from "./MButton.vue";
 
 export default Button;
 
@@ -7,4 +7,3 @@ export default Button;
 //         app.component('MyButton', Button);
 //     }
 // };
-

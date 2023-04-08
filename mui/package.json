@@ -1,15 +1,14 @@
 {
-  "name": "mui",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.ts",
-  "type": "module",
-  "scripts": {
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "normalize.css": "^8.0.1"
-  }
+	"name": "mui",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.ts",
+	"type": "module",
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"normalize.css": "^8.0.1"
+	}
 }

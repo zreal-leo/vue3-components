@@ -1,4 +1,4 @@
-import Input from './input.vue';
+import Input from "./input.vue";
 
 console.log(Input);
 
@@ -9,4 +9,3 @@ export default Input;
 //         app.component('MyButton', Button);
 //     }
 // };
-

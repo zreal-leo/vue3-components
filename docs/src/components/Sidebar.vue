@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-	<input type="number" />
+	<div>sidebar</div>
 </template>
 
-<style scoped></style>
+<style></style>
